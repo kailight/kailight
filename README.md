@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kailight
+- 👀 I’m interested in architecturing your software, and managing and leading your development team.
+- 🌱 I’m currently learning web3.
+- 📫 Reach me @ lastgrunger@gmail.com
